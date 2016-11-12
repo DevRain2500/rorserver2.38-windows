@@ -1,0 +1,28 @@
+05-11-2016 18:51:10|t01| INFO| loading config file ../settings/server.cfg ...
+05-11-2016 18:51:10|t01| INFO| Starting server in INET mode
+05-11-2016 18:51:10|t01| INFO| IP address: devrain2500.tk
+05-11-2016 18:51:10|t01| INFO| Maximum required upload: 3584kbit/s
+05-11-2016 18:51:10|t01| INFO| Maximum required download: 512kbit/s
+05-11-2016 18:51:10|t01| INFO| Server name: DevoutRain's Server
+05-11-2016 18:51:10|t01| INFO| server started in Internet mode.
+05-11-2016 18:51:10|t01| INFO| port:       12234
+05-11-2016 18:51:10|t01| INFO| terrain:    nhelens.terrn
+05-11-2016 18:51:10|t01| INFO| maxclients: 8
+05-11-2016 18:51:10|t01| INFO| server is NOT password protected
+05-11-2016 18:51:10|t01| INFO| Attempting to register on serverlist (//server-list)
+05-11-2016 18:51:12|t01| INFO| Registration failed, response code: HTTP 409, body: {"result":false,"message":"Your server name is already used."}
+05-11-2016 18:51:12|t01|ERROR| Failed to register on serverlist. Exit
+05-11-2016 18:52:40|t01| INFO| loading config file ../settings/server.cfg ...
+05-11-2016 18:52:40|t01| INFO| Starting server in INET mode
+05-11-2016 18:52:40|t01| INFO| IP address: devrain2500.tk
+05-11-2016 18:52:40|t01| INFO| Maximum required upload: 3584kbit/s
+05-11-2016 18:52:40|t01| INFO| Maximum required download: 512kbit/s
+05-11-2016 18:52:40|t01| INFO| Server name: DevoutRain's Server
+05-11-2016 18:52:40|t01| INFO| server started in Internet mode.
+05-11-2016 18:52:40|t01| INFO| port:       12234
+05-11-2016 18:52:40|t01| INFO| terrain:    nhelens.terrn
+05-11-2016 18:52:40|t01| INFO| maxclients: 8
+05-11-2016 18:52:40|t01| INFO| server is NOT password protected
+05-11-2016 18:52:40|t01| INFO| Attempting to register on serverlist (//server-list)
+05-11-2016 18:52:41|t01| INFO| Registration failed, response code: HTTP 409, body: {"result":false,"message":"Your server name is already used."}
+05-11-2016 18:52:41|t01|ERROR| Failed to register on serverlist. Exit
