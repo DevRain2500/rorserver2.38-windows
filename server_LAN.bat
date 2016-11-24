@@ -1,4 +1,6 @@
 @echo off
+title RoR_Server
+echo %time% Stating Rigs of Rods Server...
 cd ./bin
 if exist rorserver.exe ( 
 	rorserver.exe -c "../settings/server.cfg" -lan
