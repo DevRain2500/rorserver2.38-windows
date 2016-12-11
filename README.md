@@ -16,7 +16,7 @@ If the issue appears more serious, please submit it at:
 https://github.com/RigsOfRods/ror-server/issues
 
 
-# Auto-Restart bat file
+# Auto-Restart batch file
 A bat file is located in the /bin directory that offers automatic restarting
 of the server. If you wish to have this 'feature', move it to the main 
 directory and run it.
