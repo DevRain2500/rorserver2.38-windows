@@ -11,3 +11,6 @@ You may also need to download and install the following:
 
 Any other issues? Please submit an issue ticket:
 https://github.com/Dogy144/rorserver2.38-windows/issues
+
+If the issue appears more serious, please submit it at:
+https://github.com/RigsOfRods/ror-server/issues
