@@ -23,11 +23,11 @@ YOU NEED THEM!!!
 FOLLOW THE FOLDER FORMATS AND YOU SHOULD BE GOOD.
 
 EXAMPLE:
-C:/Windows/System32/msvcp140d.dll 
+/System32/msvcp140d.dll
 WOULD BE:
-~/System32/msvcp140d.dll
+%SYSTEMROOT%/System32/msvcp140d.dll 
 
 EXAMPLE:
-C:/Windows/SYSWOW64/msvcp140d.dll
+/SysWOW64/msvcp140d.dll
 WOULD BE:
-~/SysWOW64/msvcp140d.dll
+%SYSTEMROOT%/SysWOW64/msvcp140d.dll
