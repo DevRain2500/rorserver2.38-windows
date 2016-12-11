@@ -14,3 +14,11 @@ https://github.com/Dogy144/rorserver2.38-windows/issues
 
 If the issue appears more serious, please submit it at:
 https://github.com/RigsOfRods/ror-server/issues
+
+
+# Auto-Restart bat file
+A bat file is located in the /bin directory that offers automatic restarting
+of the server. If you wish to have this 'feature', move it to the main 
+directory and run it.
+
+*NOTE* This uses a basic `goto` command and will not stop unless you close it.
