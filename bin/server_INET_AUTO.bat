@@ -1,6 +1,6 @@
 @echo off
 title RoR_Server
-echo %time% Stating Rigs of Rods Server...
+echo %time% Starting Rigs of Rods Server...
 :start
 cd ./bin
 if exist rorserver.exe ( 
