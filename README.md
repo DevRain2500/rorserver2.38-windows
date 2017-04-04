@@ -22,3 +22,6 @@ of the server. If you wish to have this 'feature', move it to the main
 directory and run it.
 
 *NOTE* This uses a basic `goto` command and will not stop unless you close it.
+
+# Discord Server
+https://discord.gg/dHrjtjj
